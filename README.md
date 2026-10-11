@@ -76,7 +76,7 @@
       <h3> <font color="#1b4332">Activity 4: Group 5 Presentation</font></h3>
       <p><i><font color="#2d6a4f">Canva Slide Deck & Repository Files</font></i></p>
       <p>
-        <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/727d0433b15681c38ac72d5c2138bc8cd367cf8f/Activity%204">
+        <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/e09421adb7f36a37297ad3a1f00738b3495f4eec/Activity%204">
           <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         &nbsp;
