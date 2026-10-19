@@ -89,6 +89,34 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="280">
+      <h3><font color="#1b4332">Midterm Exam</font></h3>
+      <p><font color="#555555" size="2">Main folder containing examination materials and instructions.</font></p>
+      <p><i><font color="#2d6a4f">Gdrive</font></i></p>
+      <a href="https://drive.google.com/drive/folders/1MHniwitgoXbfonzMmJsIEfB7uAyJAWsM" target="_blank" rel="noopener noreferrer">
+        <imgsrc="https://img.shields.io/badge/Gdrive-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" alt="Midterm Exam Link" />
+      </a>
+      <br><br>
+
+<h3><font color="#1b4332">01 - Grades</font></h3>
+      <p><font color="#555555" size="2">Class grade records, score breakdowns, and evaluation sheets.</font></p>
+      <p><i><font color="#2d6a4f"> 01 - Grades Gdrive</font></i></p>
+      <a href="https://drive.google.com/drive/folders/1m0JBO03m6bO5Md4bU_P749n4asasKPDX" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Gdrive-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" alt="Grades Link" />
+      </a>
+      <br><br>
+      <h3><font color="#1b4332">02 - Report</font></h3>
+      <p><font color="#555555" size="2">Summary reports, class averages, and top performer analytics.</font></p>
+      <p><i><font color="#2d6a4f"> 02 - Report Gdrive</font></i></p>
+      <a href="https://drive.google.com/drive/folders/1QKGNe89TN9qH3adCQ7FJMx5nf-LZEmvr" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Gdrive-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" alt="Report Link" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 ---
 
 <div align="center">
