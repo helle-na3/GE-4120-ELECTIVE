@@ -6,7 +6,7 @@
 
 <a href="https://github.com/helle-na3"><img src="https://img.shields.io/badge/STUDENT-Narshama%20Samsurin-1b4332?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/SECTION-BSN%204D-2d6a4f?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/THEME-Emerald%20Green-52b788?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SEMESTER-1st%20Semester-52b788?style=for-the-badge"/></a>
 
 <br><br>
 
@@ -82,6 +82,7 @@
         &nbsp;
         <a href="https://canva.link/tg78ed9lcuta4er">
           <img src="https://img.shields.io/badge/Open%20Canva%20Slides-00A86B?style=for-the-badge&logo=canva&logoColor=white" />
+          
         </a>
       </p>
       <br>
