@@ -70,7 +70,7 @@
 > *Collaborative group presentations, slide deck deliverables, and applied projects.*
 
 <table width="100%">
-  <tr bgcolor="#e8f5e9">
+ <tr bgcolor="#e8f5e9">
     <td width="100%" align="center">
       <br>
       <h3> <font color="#1b4332">Activity 4: Group 5 Presentation</font></h3>
@@ -82,7 +82,6 @@
         &nbsp;
         <a href="https://canva.link/tg78ed9lcuta4er">
           <img src="https://img.shields.io/badge/Open%20Canva%20Slides-00A86B?style=for-the-badge&logo=canva&logoColor=white" />
-          
         </a>
       </p>
       <br>
