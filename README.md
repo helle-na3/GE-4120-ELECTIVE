@@ -76,7 +76,7 @@
       <br>
       <h3><font color="#1b4332">Activity 3</font></h3>
       <p><i><font color="#2d6a4f">Social Media Infographics & Project Documentation</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/250bd6d3f34666be47b162f4b663a46df5c09bb4/Activity%203">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/3e5de8ff6054ac2e39f3bced9744fe0f7629cea4/Activity%203">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
@@ -104,7 +104,7 @@
       <br>
       <h3><font color="#1b4332">Activity 4: Group 5 Presentation</font></h3>
       <p><i><font color="#2d6a4f">Topic: Google Docs</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/bdc7b1ac5cee233222dadba2aa87fd543de08f73/Activity%204">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/3e5de8ff6054ac2e39f3bced9744fe0f7629cea4/Activity%204">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
@@ -157,7 +157,7 @@
       <br>
       <h3><font color="#1b4332">Activity 5</font></h3>
       <p><i><font color="#2d6a4f">AI Tool Activity</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/803710b35941bc1233172f711ae0f03a4156061e/Activity%205">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/3e5de8ff6054ac2e39f3bced9744fe0f7629cea4/Activity%205">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
@@ -170,7 +170,7 @@
       <br>
       <h3><font color="#1b4332">Activity 6</font></h3>
       <p><i><font color="#2d6a4f">Website Making</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/dd646834a9fa3b7ef597a52f4a8295863ebcc7ad/Activity%206">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/3e5de8ff6054ac2e39f3bced9744fe0f7629cea4/Activity%206">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
@@ -185,7 +185,7 @@
       <br>
       <h3><font color="#1b4332">Activity 7</font></h3>
       <p><i><font color="#2d6a4f">2 Different Large Language Model Used</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/c5f2b76d5a627a519c1255e64ad5ec183cc35133/Activity%207">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/3e5de8ff6054ac2e39f3bced9744fe0f7629cea4/Activity%207">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
