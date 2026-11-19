@@ -137,7 +137,7 @@
       <br>
       <h3><font color="#1b4332">Activity 5</font></h3>
       <p><i><font color="#2d6a4f"> AI Tool Activity</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/6319198952f7812a1906822557f653e85bba570a/Activity%205">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/803710b35941bc1233172f711ae0f03a4156061e/Activity%205">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
@@ -150,7 +150,7 @@
       <br>
       <h3><font color="#1b4332">Activity 6</font></h3>
       <p><i><font color="#2d6a4f">Website Making</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/6319198952f7812a1906822557f653e85bba570a/Activity%206">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/803710b35941bc1233172f711ae0f03a4156061e/Activity%206">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
@@ -169,7 +169,7 @@
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
-      <a href="https://docs.google.com/document/d/1WfOcD1-YfdhEQ9DdoQ_2CuC5YZrG5Z1KmvVyCZP9k9A/edit?usp=sharing">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/803710b35941bc1233172f711ae0f03a4156061e/Activity%207">
         <img src="https://img.shields.io/badge/Open%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
       </a>
       <br><br>
