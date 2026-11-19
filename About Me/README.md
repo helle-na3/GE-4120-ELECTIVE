@@ -1,90 +1,62 @@
-<table width="100%">
-  <tr bgcolor="#e8f5e9">
-    <td width="28%" align="center" valign="middle">
-      <br>
-      <img src="profile.jpg" alt="Narshama Samsurin's Profile Photo" width="160" style="border-radius: 50%;" />
-      <br><br>
+<table border="0" width="100%" style="background-color: #f4f7f2; border-radius: 12px; padding: 15px;">
+  <tr>
+    <td width="220" align="center" valign="middle">
+      <img src="its me_narsh.jpg" alt="Narshama G. Samsurin" width="190" style="border-radius: 50%; border: 4px solid #9caf88;">
     </td>
-    <td width="72%" align="left" valign="middle">
-      <h2><font color="#1b4332">🌷 Narshama G. Samsurin</font></h2>
-      <p><i><font color="#2d6a4f">Fourth-Year Bachelor of Science in Nursing (BSN) Student • Ateneo de Davao University</font></i></p>
-      <p><font color="#1b4332">
-        Hello! I am passionate about healthcare, continuous learning, and personal development. I enjoy exploring how technology and innovation can make everyday tasks easier, improve productivity, and support learning. I am also interested in creativity, digital design, and discovering new ways to use technology across different fields.
-      </font></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 🎓 Education & Goals
-
-<table width="100%">
-  <tr bgcolor="#e8f5e9">
-    <td width="50%" align="left" valign="top">
-      <br>
-      <h3><font color="#1b4332">🎓 Education</font></h3>
-      <ul>
-        <li><font color="#1b4332"><b>Course:</b> Bachelor of Science in Nursing (BSN)</font></li>
-        <li><font color="#1b4332"><b>Year Level:</b> Fourth Year</font></li>
-        <li><font color="#1b4332"><b>School:</b> Ateneo de Davao University</font></li>
-      </ul>
-      <br>
-    </td>
-    <td width="50%" align="left" valign="top">
-      <br>
-      <h3><font color="#1b4332">🌱 My Goals</font></h3>
-      <p><font color="#1b4332">
-        I aim to continuously develop my knowledge and skills, explore emerging technologies, and learn how digital tools can contribute to both my academic journey and future professional healthcare career.
-      </font></p>
-      <p><i><font color="#2d6a4f">Learning, growing, and embracing innovation one step at a time. ✨</font></i></p>
-      <br>
+    <td valign="middle">
+      <h1 style="color: #4a5d42;">🌿 Hi there, I'm Narshama G. Samsurin!</h1>
+      <p style="color: #5c7053;">
+        Passionate about healthcare, continuous learning, and personal development. I love exploring how technology, digital design, and AI innovation can simplify everyday tasks, boost productivity, and elevate modern learning.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Healthcare%20%26%20Tech-9caf88?style=flat-square&logoColor=white" alt="Healthcare & Tech">
+      </p>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-## 💻 Skills & Tools Learned
+### 🎓 Education
+* **Degree:** Bachelor of Science in Nursing (BSN)
+* **Year Level:** Fourth Year
+* **Institution:** Ateneo de Davao University
 
-<table width="100%">
-  <tr bgcolor="#e8f5e9">
-    <td width="33%" align="left" valign="top">
-      <br>
-      <h3 align="center"><font color="#1b4332">🛠️ Digital Tools</font></h3>
+---
+
+### 💻 Skills & Tools
+
+#### 🛠️ Digital Tools & AI
+<p>
+  <img src="https://img.shields.io/badge/Google%20Workspace-9caf88?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace">
+  <img src="https://img.shields.io/badge/Google%20Docs-879e76?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs">
+  <img src="https://img.shields.io/badge/Large%20Language%20Model-b2c2a3?style=for-the-badge&logo=openai&logoColor=2d3a24" alt="Large Language Model">
+</p>
+
+  <tr>
+    <th width="50%" align="left"> 🌟 Technical, Digital Skills, </th>
+    <th width="50%" align="left"> Personal & Soft Skills that I Learned Througthout this Course 🌟</th>
+  </tr>
+  <tr>
+    <td valign="top">
       <ul>
-        <li><font color="#1b4332">ChatGPT</font></li>
-        <li><font color="#1b4332">Google Gemini</font></li>
-        <li><font color="#1b4332">Google Workspace</font></li>
-        <li><font color="#1b4332">Google Docs</font></li>
+        <li>AI Prompt Engineering</li>
+        <li>AI-Assisted Content Creation</li>
+        <li>Document Creation & Formatting</li>
+        <li>Digital Collaboration & File Sharing</li>
+        <li>Research & Information Organization</li>
+        <li>Basic Computer Literacy</li>
+        <li>Communication & Collaboration</li>
+        <li>Creativity & Digital Design</li>
+        <li>Time Management</li>
+        <li>Adaptability & Continuous Learning</li>
       </ul>
-      <br>
-    </td>
-    <td width="34%" align="left" valign="top">
-      <br>
-      <h3 align="center"><font color="#1b4332">⚙️ Technical Skills</font></h3>
-      <ul>
-        <li><font color="#1b4332">AI Prompt Engineering</font></li>
-        <li><font color="#1b4332">AI-Assisted Content Creation</font></li>
-        <li><font color="#1b4332">Document Creation & Formatting</font></li>
-        <li><font color="#1b4332">Digital Collaboration & Sharing</font></li>
-        <li><font color="#1b4332">Basic Computer Literacy</font></li>
-        <li><font color="#1b4332">Research & Info Organization</font></li>
-      </ul>
-      <br>
-    </td>
-    <td width="33%" align="left" valign="top">
-      <br>
-      <h3 align="center"><font color="#1b4332">🤝 Personal Skills</font></h3>
-      <ul>
-        <li><font color="#1b4332">Communication & Collaboration</font></li>
-        <li><font color="#1b4332">Creativity & Digital Design</font></li>
-        <li><font color="#1b4332">Time Management</font></li>
-        <li><font color="#1b4332">Adaptability</font></li>
-        <li><font color="#1b4332">Willingness to Learn</font></li>
-      </ul>
-      <br>
     </td>
   </tr>
-</table>
 
+---
+
+### 🌱 My Goals
+> *"Learning, growing, and embracing innovation one step at a time."* ✨
+
+I aim to continuously expand my knowledge, explore emerging technologies, and bridge the gap between digital tools and compassionate healthcare in both my academic journey and future nursing career.
