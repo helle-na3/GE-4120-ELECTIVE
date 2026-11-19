@@ -48,7 +48,7 @@
       <br>
       <h3><font color="#1b4332">Activity 1</font></h3>
       <p><i><font color="#2d6a4f">Presentation Design Principles</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/c7704547c15c9f1758826e4e2063c8cb10c3b68b/Activity%201">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/250bd6d3f34666be47b162f4b663a46df5c09bb4/Activity%201">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
@@ -61,7 +61,7 @@
       <br>
       <h3><font color="#1b4332">Activity 2</font></h3>
       <p><i><font color="#2d6a4f">Personal Branding</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/6a58741b3cd2a9ccdc7b5114e7bb7a620b3e4839/Activity%202">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/250bd6d3f34666be47b162f4b663a46df5c09bb4/Activity%202">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
@@ -76,7 +76,7 @@
       <br>
       <h3><font color="#1b4332">Activity 3</font></h3>
       <p><i><font color="#2d6a4f">Social Media Infographics & Project Documentation</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/e2043a0250a072ab379862b2b7ac467886a7ce0d/Activity%203">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/250bd6d3f34666be47b162f4b663a46df5c09bb4/Activity%203">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
