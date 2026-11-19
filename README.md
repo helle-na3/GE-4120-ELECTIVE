@@ -17,7 +17,27 @@
 ---
 
 <div align="center">
-  
+
+## 🌷 ABOUT ME
+
+> *Personal profile, academic background, digital toolkit, and learning goals.*
+
+<table width="100%">
+  <tr bgcolor="#e8f5e9">
+    <td width="100%" align="center">
+      <br>
+      <h3>👩‍⚕️ <font color="#1b4332">Narshama G. Samsurin</font></h3>
+      <p><i><font color="#2d6a4f">Fourth-Year BSN Student • Ateneo de Davao University</font></i></p>
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/270ade80c653cf759776e71ba41d3110257573b3/About%20Me">
+        <img src="https://img.shields.io/badge/View%20Profile-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🍃 PRELIM
 
 > *Foundational coursework, Canva presentations, and infographic deliverables.*
@@ -129,14 +149,14 @@
 
 ## 🌳 FINALS
 
-> *Advanced coursework, laboratory exercises, and final documentation deliverables.*\
+> *Advanced coursework, laboratory exercises, and final documentation deliverables.*
   
 <table width="100%">
   <tr bgcolor="#e8f5e9">
     <td width="50%" align="center">
       <br>
       <h3><font color="#1b4332">Activity 5</font></h3>
-      <p><i><font color="#2d6a4f"> AI Tool Activity</font></i></p>
+      <p><i><font color="#2d6a4f">AI Tool Activity</font></i></p>
       <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/803710b35941bc1233172f711ae0f03a4156061e/Activity%205">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -164,18 +184,20 @@
     <td colspan="2" align="center">
       <br>
       <h3><font color="#1b4332">Activity 7</font></h3>
-      <p><i><font color="#2d6a4f"> 2 Different Large Language Model Used</font></i></p>
+      <p><i><font color="#2d6a4f">2 Different Large Language Model Used</font></i></p>
       <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/c5f2b76d5a627a519c1255e64ad5ec183cc35133/Activity%207">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/803710b35941bc1233172f711ae0f03a4156061e/Activity%207">
+      <a href="https://docs.google.com/document/d/1WfOcD1-YfdhEQ9DdoQ_2CuC5YZrG5Z1KmvVyCZP9k9A/edit?usp=sharing">
         <img src="https://img.shields.io/badge/Open%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
       </a>
       <br><br>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
