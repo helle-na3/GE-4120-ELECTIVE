@@ -35,7 +35,7 @@
 
   <tr>
     <th width="50%" align="left"> 🌟 Technical, Digital Skills, </th>
-    <th width="50%" align="left"> Personal & Soft Skills that I Learned Througthout this Course 🌟</th>
+    <th width="50%" align="left"> Personal & Soft Skills that I Learned Throughout this Course 🌟</th>
   </tr>
   <tr>
     <td valign="top">
