@@ -70,53 +70,52 @@
 > *Collaborative group presentations, slide deck deliverables, and applied projects.*
 
 <table width="100%">
- <tr bgcolor="#e8f5e9">
-    <td width="100%" align="center">
+  <tr bgcolor="#e8f5e9">
+    <td width="50%" align="center">
       <br>
-      <h3> <font color="#1b4332">Activity 4: Group 5 Presentation</font></h3>
+      <h3><font color="#1b4332">Activity 4: Group 5 Presentation</font></h3>
       <p><i><font color="#2d6a4f">Canva Slide Deck & Repository Files</font></i></p>
-      <p>
-        <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/e09421adb7f36a37297ad3a1f00738b3495f4eec/Activity%204">
-          <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://canva.link/tg78ed9lcuta4er">
-          <img src="https://img.shields.io/badge/Open%20Canva%20Slides-00A86B?style=for-the-badge&logo=canva&logoColor=white" />
-        </a>
-      </p>
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/e09421adb7f36a37297ad3a1f00738b3495f4eec/Activity%204">
+        <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://canva.link/tg78ed9lcuta4er">
+        <img src="https://img.shields.io/badge/Open%20Canva%20Slides-00A86B?style=for-the-badge&logo=canva&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="50%" align="center">
       <br>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="280">
-      <h3><font color="#1b4332">Midterm Exam</font></h3>
-      <p><font color="#555555" size="2">Main folder containing examination materials and instructions.</font></p>
-      <p><i><font color="#2d6a4f">Gdrive</font></i></p>
-      <a href="https://drive.google.com/drive/folders/1MHniwitgoXbfonzMmJsIEfB7uAyJAWsM" target="_blank" rel="noopener noreferrer">
-        <imgsrc="https://img.shields.io/badge/Gdrive-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" alt="Midterm Exam Link" />
-      </a>
-      <br><br>
-
-<h3><font color="#1b4332">01 - Grades</font></h3>
-      <p><font color="#555555" size="2">Class grade records, score breakdowns, and evaluation sheets.</font></p>
-      <p><i><font color="#2d6a4f"> 01 - Grades Gdrive</font></i></p>
-      <a href="https://drive.google.com/drive/folders/1m0JBO03m6bO5Md4bU_P749n4asasKPDX" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Gdrive-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" alt="Grades Link" />
-      </a>
-      <br><br>
-      <h3><font color="#1b4332">02 - Report</font></h3>
-      <p><font color="#555555" size="2">Summary reports, class averages, and top performer analytics.</font></p>
-      <p><i><font color="#2d6a4f"> 02 - Report Gdrive</font></i></p>
-      <a href="https://drive.google.com/drive/folders/1QKGNe89TN9qH3adCQ7FJMx5nf-LZEmvr" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Gdrive-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" alt="Report Link" />
+      <h3>📁 <font color="#1b4332">Midterm Exam</font></h3>
+      <p><i><font color="#2d6a4f">Main Examination Materials & Instructions</font></i></p>
+      <a href="https://drive.google.com/drive/folders/1MHniwitgoXbfonzMmJsIEfB7uAyJAWsM">
+        <img src="https://img.shields.io/badge/Open%20Folder-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" />
       </a>
       <br><br>
     </td>
   </tr>
+  <tr bgcolor="#e8f5e9">
+    <td width="50%" align="center">
+      <br>
+      <h3>📊 <font color="#1b4332">01 - Grades</font></h3>
+      <p><i><font color="#2d6a4f">Class Grade Records & Evaluation Sheets</font></i></p>
+      <a href="https://drive.google.com/drive/folders/1m0JBO03m6bO5Md4bU_P749n4asasKPDX">
+        <img src="https://img.shields.io/badge/Open%20Folder-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="50%" align="center">
+      <br>
+      <h3>📑 <font color="#1b4332">02 - Report</font></h3>
+      <p><i><font color="#2d6a4f">Summary Reports & Top Performer Analytics</font></i></p>
+      <a href="https://drive.google.com/drive/folders/1QKGNe89TN9qH3adCQ7FJMx5nf-LZEmvr">
+        <img src="https://img.shields.io/badge/Open%20Folder-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
 </table>
+
 ---
 
 <div align="center">
