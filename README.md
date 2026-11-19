@@ -20,45 +20,52 @@
   
 ## 🍃 PRELIM
 
-> *Foundational coursework, laboratory tasks, and practical exam recordings.*
-  
+> *Foundational coursework, Canva presentations, and infographic deliverables.*
+
 <table width="100%">
   <tr bgcolor="#e8f5e9">
     <td width="50%" align="center">
       <br>
-      <h3> <font color="#1b4332">Activity 1</font></h3>
-      <p><i><font color="#2d6a4f">Presentation Design Principles</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/4bd98eeec2a9fb4413d45a6ecd92e91a613ac940/Activity%201">
+      <h3><font color="#1b4332">Activity 1</font></h3>
+      <p><i><font color="#2d6a4f">Canva Presentation & Repository Files</font></i></p>
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/e2043a0250a072ab379862b2b7ac467886a7ce0d/Activity%201">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://canva.link/4mln0yk0pqvhxk9">
+        <img src="https://img.shields.io/badge/Open%20Canva-00A86B?style=for-the-badge&logo=canva&logoColor=white" />
       </a>
       <br><br>
     </td>
     <td width="50%" align="center">
       <br>
-      <h3> <font color="#1b4332">Activity 2</font></h3>
-      <p><i><font color="#2d6a4f">Personal Branding</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/4bd98eeec2a9fb4413d45a6ecd92e91a613ac940/Activity%202">
+      <h3><font color="#1b4332">Activity 2</font></h3>
+      <p><i><font color="#2d6a4f">Canva Presentation & Repository Files</font></i></p>
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/e2043a0250a072ab379862b2b7ac467886a7ce0d/Activity%202">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://canva.link/4kbvi7wxh6bjkwj">
+        <img src="https://img.shields.io/badge/Open%20Canva-00A86B?style=for-the-badge&logo=canva&logoColor=white" />
       </a>
       <br><br>
     </td>
   </tr>
   <tr bgcolor="#e8f5e9">
-    <td width="50%" align="center">
+    <td colspan="2" align="center">
       <br>
-      <h3> <font color="#1b4332">Activity 3</font></h3>
-      <p><i><font color="#2d6a4f">Social Media Infographics & Project Documentation</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/4bd98eeec2a9fb4413d45a6ecd92e91a613ac940/Activity%203">
+      <h3><font color="#1b4332">Activity 3</font></h3>
+      <p><i><font color="#2d6a4f">Documentation, Infographic & Repository Files</font></i></p>
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/e2043a0250a072ab379862b2b7ac467886a7ce0d/Activity%203">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <br><br>
-    </td>
-    <td width="50%" align="center">
-      <br>
-      <h3>🎥 <font color="#1b4332">Prelim Exam</font></h3>
-      <p><i><font color="#2d6a4f">Digital Portfolio Progress Video Presentation </font></i></p>
-      <a href="https://drive.google.com/file/d/1_RDp_ltW3PhnN1Dz2hHKDJ5k3y_9oKtr/view?usp=drivesdk">
-        <img src="https://img.shields.io/badge/Watch%20Video-1b4332?style=for-the-badge&logo=googledrive&logoColor=white" />
+      &nbsp;
+      <a href="https://canva.link/u8nsuz6bhd65ot6">
+        <img src="https://img.shields.io/badge/Open%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://canva.link/u8nsuz6bhd65ot6">
+        <img src="https://img.shields.io/badge/View%20Infographic-00A86B?style=for-the-badge&logo=canva&logoColor=white" />
       </a>
       <br><br>
     </td>
