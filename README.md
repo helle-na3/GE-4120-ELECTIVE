@@ -165,7 +165,7 @@
       <br>
       <h3><font color="#1b4332">Activity 7</font></h3>
       <p><i><font color="#2d6a4f"> 2 Different Large Language Model Used</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/6319198952f7812a1906822557f653e85bba570a/Activity%207">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/c5f2b76d5a627a519c1255e64ad5ec183cc35133/Activity%207">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
