@@ -16,11 +16,11 @@
 
 ---
 
+<div align="center">
+  
 ## 🍃 PRELIM
 
 > *Foundational coursework, laboratory tasks, and practical exam recordings.*
-
-<div align="center">
   
 <table width="100%">
   <tr bgcolor="#e8f5e9">
