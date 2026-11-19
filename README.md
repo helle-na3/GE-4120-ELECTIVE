@@ -28,7 +28,7 @@
       <br>
       <h3><font color="#1b4332">Activity 1</font></h3>
       <p><i><font color="#2d6a4f">Canva Presentation & Repository Files</font></i></p>
-      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/e2043a0250a072ab379862b2b7ac467886a7ce0d/Activity%201">
+      <a href="https://github.com/helle-na3/GE-4120-ELECTIVE/tree/c7704547c15c9f1758826e4e2063c8cb10c3b68b/Activity%201">
         <img src="https://img.shields.io/badge/View%20Files-2d6a4f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       &nbsp;
